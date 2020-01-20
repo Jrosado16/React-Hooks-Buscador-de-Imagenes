@@ -1,0 +1,10 @@
+body{
+    background-color: #181A1B;
+}
+
+.spinner-grow{
+    width: 10rem;
+    height: 10rem;
+    position: absolute;
+    z-index: 999;
+}
